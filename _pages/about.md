@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: ""
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-<!-- Subsection header
+Hi! I am a J.D./Ph.D. student at Stanford.
+
+<!-- Affiliations
 ======
-Text -->
+[RegLab @ Stanford Law School](https://reglab.stanford.edu/) -->
