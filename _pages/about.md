@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a J.D./Ph.D. student at Stanford.
+Hi! I am a J.D./Ph.D. student at Stanford Law School and Stanford Political Science. I graduated as valedictorian from Dartmouth College in 2022 with a triple major in Government, Environmental Studies, and Quantitative Social Science.
+
 
 <!-- Affiliations
 ======
