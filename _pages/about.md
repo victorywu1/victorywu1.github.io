@@ -13,5 +13,7 @@ Hi! I am a J.D./Ph.D. student at Stanford Law School and Stanford Political Scie
 <!-- Affiliations
 ======
 [RegLab @ Stanford Law School](https://reglab.stanford.edu/)
+HAI
+Rhode Center
 [Climate Cognition Lab @ Stanford University](https://climatecognition.stanford.edu/)
 [Humane and Sustainable Food Lab @ Stanford University](https://www.foodlabstanford.com/) -->
