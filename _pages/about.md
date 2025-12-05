@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a J.D./Ph.D. student at Stanford Law School and Stanford Political Science. I graduated as valedictorian from Dartmouth College in 2022 with a triple major in Government, Environmental Studies, and Quantitative Social Science. My research has been published in <i>Nature Communications<i>, <i>Energy Research & Social Science<i>, and the <i>Stanford Law Review<i>.
-
+Hi! I am a J.D./Ph.D. student at Stanford Law School and Stanford Political Science. I graduated as valedictorian from Dartmouth College in 2022 with a triple major in Government, Environmental Studies, and Quantitative Social Science. My research has been published in <i>Nature Communications</i>, <i>Energy Research & Social Science</i>, and the <i>Stanford Law Review</i>.
 
 <!-- Affiliations
 ======
