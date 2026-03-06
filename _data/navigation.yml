@@ -17,6 +17,9 @@ main:
   - title: "Legal Experience"
     url: /legalexperience/
 
+  - title: "CV"
+    url: /cv/
+
   # - title: "Talks"
   #   url: /talks/    
 
