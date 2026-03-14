@@ -16,13 +16,22 @@ My empirical research has appeared in venues such as <i>Nature Communications</i
 In my free time, I enjoy rock climbing, chess, powerlifting, piano, gymnastics, and triathlon.
 
 <h3>Selected Affiliations</h3>
-<h4>Legal</h4>
+<i>Legal</i>
+<br>
 <a href="https://reglab.stanford.edu/">Stanford Regulation, Evaluation, and Governance Lab (RegLab)</a> (Law Student Fellow)
+<br>
 <a href="https://clp.law.stanford.edu/">Deborah L. Rhode Center on the Legal Profession</a> (Civil Justice Fellow)
+<br>
 <a href="https://law.stanford.edu/stanford-center-for-racial-justice/">Stanford Center for Racial Justice</a> (Bremond Fellow)
+<br>
 <a href="https://thebrooksinstitute.org/">Brooks Institute for Animal Rights Law and Policy</a> (Emerging Scholars Fellow)
-<h4>Non-legal</h4>
+<br>
+<i>Non-legal</i>
+<br>
 <a href="https://hai.stanford.edu/">Stanford Institute for Human-Centered AI (HAI)</a> (Graduate Fellow)
+<br>
 <a href="https://hai.stanford.edu/policy/student-opportunities/ai-policy-working-group">Stanford AI Policy Working Group</a>
+<br>
 <a href="https://climatecognition.stanford.edu/">Stanford Climate Cognition Lab</a>
+<br>
 <a href="https://www.foodlabstanford.com/">Stanford Humane & Sustainable Food Lab</a>
