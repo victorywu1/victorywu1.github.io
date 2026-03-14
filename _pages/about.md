@@ -7,16 +7,22 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a J.D./Ph.D. student at Stanford Law School and Stanford Political Science. I graduated as valedictorian from Dartmouth College in 2022 with a triple major in Government, Environmental Studies, and Quantitative Social Science.
+Hi! I'm a fourth-year J.D./Ph.D. student in Political Science at Stanford University. At Stanford Law School, I'm a John M. Olin Fellow in Law and Economics, a Sallyanne Payton Fellow, a Salzburg Global Cutler Fellow, and the inaugural Harry Bremond Fellow. I served as Managing Editor of the <i>Stanford Law Review</i> and Editor-in-Chief of the <i>Stanford Environmental Law Journal</i>. I graduated as valedictorian from Dartmouth College in 2022 with a triple major in Government, Environmental Studies, and Quantitative Social Science.
 
-My empirical research has appeared in journals such as <i>Nature Communications</i> and <i>Energy Research & Social Science</i>, and my legal scholarship has been published in the <i>Stanford Law Review</i> and the <i>University of Illinois Law Review</i>. <!--I also publish in peer-reviewed computer science venues, including <i>ACM Computer Science & Law</i> and <i>ACM FAccT</i> (Best Paper Award).--> My other writing has appeared in outlets such as the <i>London School of Economics USAPP</i> and the <i>Washington Post</i>.
+Currently, I'm a Research Associate with the Oxford Computational Political Science Group and a judicial extern for Chief Judge James E. Boasberg, U.S. District Court for the District of Columbia.
+
+My empirical research has appeared in venues such as <i>Nature Communications</i>, <i>Energy Research & Social Science</i>, and <i>ACM FAccT</i> (Best Paper Award). My legal scholarship has been published in journals such as the <i>Stanford Law Review</i> and the <i>University of Illinois Law Review</i>. My other writing has appeared in outlets such as the <i>London School of Economics USAPP</i> and the <i>Washington Post</i>.
 
 In my free time, I enjoy rock climbing, chess, powerlifting, piano, gymnastics, and triathlon.
 
-<!-- Affiliations
-======
-[RegLab @ Stanford Law School](https://reglab.stanford.edu/)
-HAI
-Rhode Center
-[Climate Cognition Lab @ Stanford University](https://climatecognition.stanford.edu/)
-[Humane and Sustainable Food Lab @ Stanford University](https://www.foodlabstanford.com/) -->
+<h3>Selected Affiliations</h3>
+<h4>Legal</h4>
+<a href="https://reglab.stanford.edu/">Stanford Regulation, Evaluation, and Governance Lab (RegLab)</a> (Law Student Fellow)
+<a href="https://clp.law.stanford.edu/">Deborah L. Rhode Center on the Legal Profession</a> (Civil Justice Fellow)
+<a href="https://law.stanford.edu/stanford-center-for-racial-justice/">Stanford Center for Racial Justice</a> (Bremond Fellow)
+<a href="https://thebrooksinstitute.org/">Brooks Institute for Animal Rights Law and Policy</a> (Emerging Scholars Fellow)
+<h4>Non-legal</h4>
+<a href="https://hai.stanford.edu/">Stanford Institute for Human-Centered AI (HAI)</a> (Graduate Fellow)
+<a href="https://hai.stanford.edu/policy/student-opportunities/ai-policy-working-group">Stanford AI Policy Working Group</a>
+<a href="https://climatecognition.stanford.edu/">Stanford Climate Cognition Lab</a>
+<a href="https://www.foodlabstanford.com/">Stanford Humane & Sustainable Food Lab</a>
