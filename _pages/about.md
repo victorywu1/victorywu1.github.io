@@ -38,4 +38,4 @@ In my free time, I enjoy rock climbing, chess, powerlifting, piano, gymnastics, 
 <br>
 <a href="https://www.foodlabstanford.com/">Stanford Humane & Sustainable Food Lab</a> (Lab Member)
 <br>
-<a href="https://iriss.stanford.edu/american-democracy">Stanford Center for American Democracy</a> (American Democracy Fellow)
+<a href="https://iriss.stanford.edu/american-democracy">Stanford Center for American Democracy</a> (Graduate Fellow)
