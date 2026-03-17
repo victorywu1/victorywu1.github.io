@@ -11,7 +11,7 @@ Hi! I'm a fourth-year J.D./Ph.D. student in Political Science at Stanford Univer
 
 Currently, I'm a Research Associate with the Oxford Computational Political Science Group and a judicial extern for Chief Judge James E. Boasberg, U.S. District Court for the District of Columbia.
 
-My empirical research has appeared in venues such as <i>Nature Communications</i>, <i>Energy Research & Social Science</i>, and <i>ACM FAccT</i> (Best Paper Award). My legal scholarship has been published in journals such as the <i>Stanford Law Review</i> and the <i>University of Illinois Law Review</i>. My other writing has appeared in outlets such as the <i>London School of Economics USAPP</i> and the <i>Washington Post</i>.
+My empirical research has appeared in venues such as <i>Nature Communications</i> (solo-authored), <i>Energy Research & Social Science</i>, and <i>ACM FAccT</i> (Best Paper Award). My legal scholarship has been published in journals such as the <i>Stanford Law Review</i> and the <i>University of Illinois Law Review</i>. My other writing has appeared in outlets such as the <i>London School of Economics USAPP</i> and the <i>Washington Post</i>.
 
 In my free time, I enjoy rock climbing, chess, powerlifting, piano, gymnastics, and triathlon.
 
