@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a fourth-year J.D./Ph.D. student in Political Science at Stanford University. I graduated from Stanford Law School in 2025, where I was a John M. Olin Fellow in Law and Economics, a Sallyanne Payton Fellow, a Salzburg Global Cutler Fellow, and the inaugural Harry Bremond Fellow. I served as Managing Editor of the <i>Stanford Law Review</i> and Editor-in-Chief of the <i>Stanford Environmental Law Journal</i>. I graduated as valedictorian from Dartmouth College in 2022 with a triple major in Government, Environmental Studies, and Quantitative Social Science.
+Hi! I'm a fourth-year J.D./Ph.D. student in Political Science at Stanford University. I graduated from Stanford Law School in 2025, where I was a John M. Olin Fellow in Law and Economics, a Sallyanne Payton Fellow, a Salzburg Global Cutler Fellow, and the inaugural Harry Bremond Fellow. I served as Managing Editor of the <i>Stanford Law Review</i>, Editor-in-Chief of the <i>Stanford Environmental Law Journal</i>, and President of the Environmental Law Society. I graduated as valedictorian from Dartmouth College in 2022 with a triple major in Government, Environmental Studies, and Quantitative Social Science.
 
 Currently, I'm a Research Associate with the Oxford Computational Political Science Group and a judicial extern for Chief Judge James E. Boasberg, U.S. District Court for the District of Columbia.
 
-My empirical research has appeared in venues such as <i>Nature Communications</i> (solo-authored), <i>Energy Research & Social Science</i>, and <i>ACM FAccT</i> (Best Paper Award). My legal scholarship has been published in journals such as the <i>Stanford Law Review</i> and the <i>University of Illinois Law Review</i>. My other writing has appeared in outlets such as the <i>London School of Economics USAPP</i> and the <i>Washington Post</i>.
+My empirical research has appeared in venues such as <i>Nature Communications</i> (solo-authored) and <i>ACM FAccT</i> (Best Paper Award). My legal scholarship has been published in journals such as the <i>Stanford Law Review</i> and the <i>University of Illinois Law Review</i>. My other writing has appeared in outlets such as the <i>London School of Economics USAPP</i> and the <i>Washington Post</i>.
 
 In my free time, I enjoy rock climbing, chess, powerlifting, piano, gymnastics, and triathlon.
 
@@ -37,5 +37,7 @@ In my free time, I enjoy rock climbing, chess, powerlifting, piano, gymnastics, 
 <a href="https://climatecognition.stanford.edu/">Stanford Climate Cognition Lab</a> (Lab Member)
 <br>
 <a href="https://www.foodlabstanford.com/">Stanford Humane & Sustainable Food Lab</a> (Lab Member)
+<br>
+<a href="https://cas.stanford.edu/">Stanford Center for Affective Science</a> (Graduate Fellow)
 <br>
 <a href="https://iriss.stanford.edu/american-democracy">Stanford Center for American Democracy</a> (Graduate Fellow)
