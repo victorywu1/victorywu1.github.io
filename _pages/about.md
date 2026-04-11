@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a fourth-year J.D./Ph.D. student in Political Science at Stanford University. I graduated from Stanford Law School in 2025, where I was a John M. Olin Fellow in Law and Economics, a Sallyanne Payton Fellow, a Salzburg Global Cutler Fellow, and the inaugural Harry Bremond Fellow. I served as Managing Editor of the <i>Stanford Law Review</i>, Editor-in-Chief of the <i>Stanford Environmental Law Journal</i>, and President of the Environmental Law Society. I graduated as valedictorian from Dartmouth College in 2022 with a triple major in Government, Environmental Studies, and Quantitative Social Science.
+Hi! I'm a fourth-year J.D./Ph.D. student in Political Science at Stanford University. I graduated from Stanford Law School in 2025, where I was a John M. Olin Fellow in Law and Economics, a Sallyanne Payton Fellow, and the inaugural Harry Bremond Fellow. I served as Managing Editor of the <i>Stanford Law Review</i>, Editor-in-Chief of the <i>Stanford Environmental Law Journal</i>, and President of the Environmental Law Society. I graduated as valedictorian from Dartmouth College in 2022 with a triple major in Government, Environmental Studies, and Quantitative Social Science.
 
 Currently, I'm a Research Associate with the Oxford Computational Political Science Group and a judicial extern for Chief Judge James E. Boasberg, U.S. District Court for the District of Columbia.
 
