@@ -42,5 +42,6 @@ In my free time, I enjoy rock climbing, chess, volleyball, piano, gymnastics, an
 <a href="https://cas.stanford.edu/">Stanford Center for Affective Science</a> (Graduate Fellow)
 <br>
 <a href="https://iriss.stanford.edu/american-democracy">Stanford Center for American Democracy</a> (Graduate Fellow)
+<br>
 <a href="https://ethicsinsociety.stanford.edu/">McCoy Family Center for Ethics in Society</a> (Graduate Fellow)
 {% endcomment %}
