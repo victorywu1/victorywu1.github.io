@@ -28,9 +28,9 @@ In my free time, I enjoy rock climbing, chess, volleyball, piano, gymnastics, an
 <br>
 <i>Non-legal</i>
 <br>
-<a href="https://www.politics.ox.ac.uk/oxford-computational-political-science-group">Oxford Computational Political Science Group</a> (Research Associate)
+<a href="https://www.politics.ox.ac.uk/oxford-computational-political-science-group">Oxford Computational Political Science Group</a> (Research Associate, 2025-26)
 <br>
-<a href="https://hai.stanford.edu/">Stanford Institute for Human-Centered AI (HAI)</a> (Graduate Fellow)
+<a href="https://hai.stanford.edu/">Stanford Institute for Human-Centered AI (HAI)</a> (HAI Data Science Scholar; Graduate Fellow)
 <br>
 <a href="https://hai.stanford.edu/policy/student-opportunities/ai-policy-working-group">Stanford AI Policy Working Group</a> (Working Group, 2025-26)
 <br>
@@ -41,3 +41,4 @@ In my free time, I enjoy rock climbing, chess, volleyball, piano, gymnastics, an
 <a href="https://cas.stanford.edu/">Stanford Center for Affective Science</a> (Graduate Fellow)
 <br>
 <a href="https://iriss.stanford.edu/american-democracy">Stanford Center for American Democracy</a> (Graduate Fellow)
+<a href="https://ethicsinsociety.stanford.edu/">McCoy Family Center for Ethics in Society</a> (Graduate Fellow)
