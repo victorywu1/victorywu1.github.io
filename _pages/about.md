@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a J.D./Ph.D. candidate in Political Science at Stanford University. My doctoral research is supported by the Stanford Interdisciplinary Graduate Fellowship and the Data Science Scholars Program at the Stanford Institute for Human-Centered AI.
+Hi! I'm a J.D./Ph.D. candidate in Political Science at Stanford University. My doctoral research is supported by the Jim and Gaye Pigott Interdisciplinary Graduate Fellowship and the Data Science Scholars Program at the Stanford Institute for Human-Centered AI.
 
 I graduated from Stanford Law School in 2025, where I was a John M. Olin Fellow in Law and Economics, a Sallyanne Payton Fellow, and the inaugural Harry Bremond Fellow. I served as Managing Editor of the <i>Stanford Law Review</i>, Editor-in-Chief of the <i>Stanford Environmental Law Journal</i>, and President of the Environmental Law Society. Before Stanford, I graduated as valedictorian from Dartmouth College in 2022 with a triple major in Government, Environmental Studies, and Quantitative Social Science.
 
