@@ -13,7 +13,7 @@ I graduated from Stanford Law School in 2025, where I was a John M. Olin Fellow 
 
 My empirical research has appeared in venues such as <i>Nature Communications</i> (solo-authored) and <i>ACM FAccT</i> (Best Paper Award). My legal scholarship has been published in journals including the <i>Stanford Law Review</i> and the <i>University of Illinois Law Review</i>. My other writing has appeared in outlets such as the London School of Economics' <i>USAPP</i> and the <i>Washington Post</i>.
 
-In my free time, I enjoy rock climbing, chess, volleyball, piano, gymnastics, and triathlon.
+In my free time, I enjoy rock climbing, chess, volleyball, piano, gymnastics/circus, and triathlon.
 
 {% comment %}
 <h3>Selected Affiliations</h3>
